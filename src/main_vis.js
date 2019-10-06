@@ -22,7 +22,7 @@ let chartWidth = svg_width * 0.3
 let chartHeight = svg_height * 0.9
 
 
-let chart1 = new TwoKeyHeatMap (chartX, chartY, chartWidth, chartHeight, data, "yearEnd", "decade");
+let chart1 = new TwoKeyHeatMap (chartX, chartY, chartWidth, chartHeight, data, "yearEnd", "Decade");
 
 
 function getData() {
@@ -33,7 +33,7 @@ function getData() {
         entry.year = i
         let yearEnd = entry.year % 10
         entry.yearEnd = String(yearEnd)
-        entry.decade = String(entry.year - yearEnd) + "s"
+        entry.Decade = String(entry.year - yearEnd) + "s"
         entry.value = (i % 3 == 0) ? 1 : 0
         data.push(entry)
     }

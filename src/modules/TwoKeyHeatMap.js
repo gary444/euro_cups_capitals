@@ -1,6 +1,6 @@
 import * as d3 from './d3.min.js';
 
-// expects an array of data objects with 2 keys and a value
+// expects an array of data objects with 2 keys and value
 
 // keys are named in constructor
 // key 1: horizontal
@@ -21,9 +21,6 @@ function getColour(data){
 export default class TwoKeyHeatMap {
 
     constructor(x, y, width, height, data, key1, key2){
-
-
-
 
         //assume single svg container on page to write to
         let svgContainer = d3.select("svg")
@@ -53,16 +50,22 @@ export default class TwoKeyHeatMap {
 
         //title sizes
         let titleOffsetYPc = 0.1
-        let subtitleOffsetYPc = 0.1
+        let subtitleOffsetYPc = 0.05
 
-        //calculate total offsets
-        let chartXOffsetPc = 0.1
+        //calculate total offsets (top and left)
+        let chartXOffsetPc = 0.15
         let chartYOffsetPc = titleOffsetYPc + subtitleOffsetYPc
         let chartXOffset = chartXOffsetPc * width
-        let chartYOffset = chartXOffsetPc * height
+        let chartYOffset = chartYOffsetPc * height
 
-        let markAreaX = width - chartXOffset
-        let markAreaY = height - chartYOffset
+        //calculate padding (right and bottom)
+        let chartXPadPc = 0.05
+        let chartYPadPc = 0.05
+        let chartXPad = chartXPadPc * width
+        let chartYPad = chartYPadPc * height
+
+        let markAreaX = width - chartXOffset - chartXPad
+        let markAreaY = height - chartYOffset - chartYPad
         let maxMarkWidth = markAreaX / this.keys1.length
         let maxMarkHeight = markAreaY / this.keys2.length
 
@@ -109,19 +112,33 @@ export default class TwoKeyHeatMap {
             .classed("heatMapText", true)
             .classed("heatMapSubtitle", true)
             .attr("x", width/2)
-            .attr("y", height*0.05)
+            .attr("y", height*titleOffsetYPc)
             .text("Here is a smaller subtitle")
 
+        // y axis label
+        this.root.append("text")
+            .classed("heatMapText", true)
+            .classed("heatMapYAxisLabel", true)
+            .attr("transform", "translate(" + (chartXOffset * 0.2) + ","
+                + (chartYOffset + (0.5*maxMarkHeight*this.keys2.length)) + ") rotate(-90)")
+            .text(key2)
 
+        // x axis label
+        this.root.append("text")
+            .classed("heatMapText", true)
+            .classed("heatMapXAxisLabel", true)
+            .attr("x", chartXOffset + markAreaX*0.5)
+            .attr("y", chartYOffset * 0.9)
+            .text(key1)
 
-        // y axis labels
+        // y axis channel labels
         this.ylabels = this.root.append("g")
         this.ylabels.selectAll("text")
             .data(this.keys2).enter()
             .append("text")
                 .classed("heatMapText", true)
                 .classed("heatMapYLabel", true)
-                .attr("x", chartXOffset * 0.9)
+                .attr("x", chartXOffset * 0.8)
                 .attr("y", (d,i) => { return chartYOffset + (i+0.5) * maxMarkHeight})
                 .text((d) => {return d;} )
 
@@ -135,6 +152,7 @@ export default class TwoKeyHeatMap {
         //         .attr("x", (d,i) => { return chartXOffset + (i+0.5) * maxMarkWidth})
         //         .attr("y", chartYOffset * 0.9)
         //         .text((d) => {return d;} )
+
 
 
 

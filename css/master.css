@@ -15,15 +15,15 @@ text.heatMapText {
     color:#08202A;
     text-anchor:middle;
     /* text-align: center; */
-    font-size: 4vh;
+
 }
 
 text.heatMapTitle {
-
+    font-size: 4vh;
 }
 
 text.heatMapSubtitle {
-
+    font-size: 2vh;
 }
 
 text.heatMapYLabel {
@@ -32,7 +32,15 @@ text.heatMapYLabel {
     font-size: 0.7vw;
 }
 text.heatMapXLabel {
+    text-anchor:middle;
+    font-size: 0.7vw;
+}
 
+text.heatMapYAxisLabel{
+    text-anchor:middle;
+    font-size: 0.7vw;
+}
+text.heatMapXAxisLabel{
     text-anchor:middle;
     font-size: 0.7vw;
 }
