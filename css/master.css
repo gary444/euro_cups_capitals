@@ -1,0 +1,38 @@
+body {
+    background-color: #ffffff;
+    font-family: Verdana, Geneva, sans-serif;
+}
+
+
+svg {
+    /* background-color:orange; */
+}
+
+
+/* HEAT MAP CSS */
+
+text.heatMapText {
+    color:#08202A;
+    text-anchor:middle;
+    /* text-align: center; */
+    font-size: 4vh;
+}
+
+text.heatMapTitle {
+
+}
+
+text.heatMapSubtitle {
+
+}
+
+text.heatMapYLabel {
+
+    text-anchor:end;
+    font-size: 0.7vw;
+}
+text.heatMapXLabel {
+
+    text-anchor:middle;
+    font-size: 0.7vw;
+}
