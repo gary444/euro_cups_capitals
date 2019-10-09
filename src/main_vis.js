@@ -1,7 +1,7 @@
 import * as d3 from './modules/d3.min.js';
-import TwoKeyHeatMap from './modules/TwoKeyHeatMap.js';
+import TwoKeyHeatMap from './modules/TwoKeyHeatMap_euro.js';
 
-let data = getData()
+
 
 d3.select("body").append("h1")
   .text("Hello World");
@@ -16,26 +16,49 @@ let svgContainer = d3.select("body").append("svg")
   .attr("id", "main_svg")
 
 
-let chartX = svg_width * 0.3
+let chartX = svg_width * 0.2
 let chartY = svg_height * 0.05
-let chartWidth = svg_width * 0.3
+let chartWidth = svg_width * 0.4
 let chartHeight = svg_height * 0.9
 
+//load data for heat map
+let data = []
+d3.csv('data/euroCupCapitals.csv').then( (capitalData) => {
 
-let chart1 = new TwoKeyHeatMap (chartX, chartY, chartWidth, chartHeight, data, "yearEnd", "Decade");
-
-
-function getData() {
-    //create some fake data
-    let data = []
-    for (var i = 1955; i < 2019; i++) {
+    capitalData.forEach( (d) => {
         let entry = {}
-        entry.year = i
+        entry.year = d.year
         let yearEnd = entry.year % 10
         entry.yearEnd = String(yearEnd)
         entry.Decade = String(entry.year - yearEnd) + "s"
-        entry.value = (i % 3 == 0) ? 1 : 0
+
+        entry.team = d.team
+        entry.city = d.city
+        entry.value = d.isCapital
         data.push(entry)
-    }
-    return data;
-}
+    })
+
+
+    let chart1 = new TwoKeyHeatMap (chartX, chartY, chartWidth, chartHeight, data, "yearEnd", "Decade");
+});
+
+
+
+
+
+// function getData() {
+//     // //create some fake data
+//     // let data = []
+//     // for (var i = 1955; i < 2019; i++) {
+//     //     let entry = {}
+//     //     entry.year = i
+//     //     let yearEnd = entry.year % 10
+//     //     entry.yearEnd = String(yearEnd)
+//     //     entry.Decade = String(entry.year - yearEnd) + "s"
+//     //     entry.value = (i % 3 == 0) ? 1 : 0
+//     //     data.push(entry)
+//     // }
+//     // return data;
+//
+//
+// }

@@ -1,0 +1,65 @@
+year,team,city,isCapital
+2019,Liverpool,Liverpool,0
+2018,Real Madrid,Madrid,1
+2017,Real Madrid,Madrid,1
+2016,Real Madrid,Madrid,1
+2015,Barcelona,Barcelona,0
+2014,Real Madrid,Madrid,1
+2013,Bayern Munich,Munich,0
+2012,Chelsea,London,1
+2011,Barcelona,Barcelona,0
+2010,Inter Milan,Milan,0
+2009,Barcelona,Barcelona,0
+2008,Manchester United,Manchester,0
+2007,AC Milan,Milan,0
+2006,Barcelona,Barcelona,0
+2005,Liverpool,Liverpool,0
+2004,FC Porto,Porto,0
+2003,AC Milan,Milan,0
+2002,Real Madrid,Madrid,1
+2001,Bayern Munich,Munich,0
+2000,Real Madrid,Madrid,1
+1999,Manchester United,Manchester,0
+1998,Real Madrid,Madrid,1
+1997,Borussia Dortmund,Dortmund,0
+1996,Juventus,Turin,0
+1995,Ajax,Amsterdam,1
+1994,AC Milan,Milan,0
+1993,Marseille,Marseille,0
+1992,Barcelona,Barcelona,0
+1991,Red Star Belgrade,Belgrade,1
+1990,AC Milan,Milan,0
+1989,AC Milan,Milan,0
+1988,PSV Eindhoven,Eindhoven,0
+1987,FC Porto,Porto,0
+1986,Steaua București,Bucharest,1
+1985,Juventus,Turin,0
+1984,Liverpool,Liverpool,0
+1983,Hamburg,Hamburg,0
+1982,Aston Villa,Birmingham,0
+1981,Liverpool,Liverpool,0
+1980,Nottingham Forest,Nottingham,0
+1979,Nottingham Forest,Nottingham,0
+1978,Liverpool,Liverpool,0
+1977,Liverpool,Liverpool,0
+1976,Bayern Munich,Munich,0
+1975,Bayern Munich,Munich,0
+1974,Bayern Munich,Munich,0
+1973,Ajax,Amsterdam,1
+1972,Ajax,Amsterdam,1
+1971,Ajax,Amsterdam,1
+1970,Feyenoord,Rotterdam,0
+1969,AC Milan,Milan,0
+1968,Manchester United,Manchester,0
+1967,Celtic,Glasgow,0
+1966,Real Madrid,Madrid,1
+1965,Inter Milan,Milan,0
+1964,Inter Milan,Milan,0
+1963,AC Milan,Milan,0
+1962,Benfica,Lisbon,1
+1961,Benfica,Lisbon,1
+1960,Real Madrid,Madrid,1
+1959,Real Madrid,Madrid,1
+1958,Real Madrid,Madrid,1
+1957,Real Madrid,Madrid,1
+1956,Real Madrid,Madrid,1

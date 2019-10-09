@@ -1,5 +1,5 @@
 body {
-    background-color: #ffffff;
+    background-color: #FBFBFF;
     font-family: Verdana, Geneva, sans-serif;
 }
 
@@ -11,15 +11,17 @@ svg {
 
 /* HEAT MAP CSS */
 
-text.heatMapText {
-    color:#08202A;
-    text-anchor:middle;
-    /* text-align: center; */
+text {
+    color:#040F16;
+}
 
+text.heatMapText {
+    /* color:#08202A; */
+    text-anchor:middle;
 }
 
 text.heatMapTitle {
-    font-size: 4vh;
+    font-size: 3vh;
 }
 
 text.heatMapSubtitle {
@@ -43,4 +45,7 @@ text.heatMapYAxisLabel{
 text.heatMapXAxisLabel{
     text-anchor:middle;
     font-size: 0.7vw;
+}
+text.heatMapLegendText{
+    font-size: 1vw;
 }
