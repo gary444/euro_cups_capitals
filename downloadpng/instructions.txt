@@ -1,0 +1,16 @@
+https://bl.ocks.org/mbostock/6466603
+
+To download an SVG as PNG:
+
+ - install bookmarklet SVG crowbar (beta version 2 seems to work better)
+   - must be on chrome
+   - http://nytimes.github.io/svg-crowbar/
+
+- go to svg's web page in chrome and use bookmarklet to download svg
+
+- name svg: "fallback.svg"
+
+- start python server in folder containing script: "fallback.html"
+
+- navigate to localhost:xxxx/fallback.html and png will download automatically
+   - dimensions can be set in the html file

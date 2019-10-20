@@ -1,6 +1,6 @@
 import * as d3 from './modules/d3.min.js';
 import TwoKeyHeatMap from './modules/TwoKeyHeatMap_euro.js';
-
+import EuroChoroplethMapStepped from './modules/EuroChoroplethMapStepped.js';
 
 
 d3.select("body").append("h1")
@@ -22,8 +22,10 @@ let chartWidth = svg_width * 0.4
 let chartHeight = svg_height * 0.9
 
 //load data for heat map
-let data = []
+
 d3.csv('data/euroCupCapitals.csv').then( (capitalData) => {
+
+    let data = []
 
     capitalData.forEach( (d) => {
         let entry = {}
@@ -38,12 +40,25 @@ d3.csv('data/euroCupCapitals.csv').then( (capitalData) => {
         data.push(entry)
     })
 
+    // let chart1 = new TwoKeyHeatMap (chartX, chartY, chartWidth, chartHeight, data, "yearEnd", "Decade");
 
-    let chart1 = new TwoKeyHeatMap (chartX, chartY, chartWidth, chartHeight, data, "yearEnd", "Decade");
 });
 
 
 
+// load map
+let mapX = svg_width * 0.25
+let mapY = 0
+let mapWidth = svg_width * 0.5
+let mapHeight = svg_height * 0.8
+
+
+d3.csv('data/FAKEcapitalSuccessPerCountry.csv').then( (countryCapitalSuccess) => {
+
+    console.log(countryCapitalSuccess);
+
+    let map1 = new EuroChoroplethMapStepped(mapX, mapY, mapWidth, mapHeight, countryCapitalSuccess);
+});
 
 
 // function getData() {
