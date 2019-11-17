@@ -357,7 +357,7 @@ Garbarnia Krakow,Krakow,Poland
 BSG Chemie Leipzig,Leipzig,Germany
 Jūrnieks Riga,Riga,Latvia
 SC Brühl,St gallen,Switzerland
-Hannover 96,Jannover,Germany
+Hannover 96,Hannover,Germany
 Køge BK,Koge,Denmark
 Tavriya Simferopol,Simferopol,Ukraine
 Fässberg IF,Gothenburg,Sweden
@@ -484,4 +484,314 @@ AC Standard Paris,Paris,France
 Club Francais Paris,Paris,France
 SM Puteaux,Paris,France
 Gallia Club Paris,Paris,France
-,,
+Hamburger SV, Hamburg, Germany
+1. FC Köln, Hamburg, Germany
+Bor. Mönchengladbach, Mönchengladbach, Germany
+1. FC Nürnberg, Nuremberg, Germany
+TSV 1860 München, Munich, Germany
+Frankfurter SG Eintracht, Frankfurt, Germany
+FC Schalke 04, Gelsenkirchen, Germany
+Rot-Weiss Essen, Essen, Germany
+VfR Mannheim, Mannheim, Germany
+Dresdner SC, Dresden, Germany
+Düsseldorfer FK Fortuna 1911, Düsseldorf, Germany
+Hertha BSC, Berlin, Germany
+SpVgg Fürth, Fürth, Germany
+Holstein Kiel, Kiel, Germany
+BTuFC Viktoria 89, Berlin, Germany
+Karlsruher FV, Karlsruhe, Germany
+Freiburger FC, Freiburg, Germany
+Hansa Rostock,Rostock,Germany
+Dynamo Dresden,Dresden,Germany
+BFC Dynamo,Berlin,Germany
+1. FC Magdeburg,Magdeburg,Germany
+FC Vorwärts Berlin,Berlin,Germany
+ASK Vorwärts Berlin,Berlin,Germany
+SC Motor Jena,Jena,Germany
+SC Wismut Karl-Marx-Stadt,Chemnitz,Germany
+BSG Turbine Erfurt,Erfurt,Germany
+SV Deutsche VP Dresden,Dresden,Germany
+BSG Turbine Halle,Halle,Germany
+ZSG Horch Zwickau,Zwickau,Germany
+SG Planitz,Zwickau,Germany
+FC Karl-Marx-Stadt,Chemnitz,Germany
+Os Belenenses,Lisbon,Portugal
+Dundee United, Dundee,Scotland
+Kilmarnock FC,Kilmarnock,Scotland
+Dundee FC,Dundee,Scotland
+Heart of Midlothian,Edinburgh,Scotland
+Hibernian FC,Edinburgh,Scotland
+Motherwell FC,Motherwell,Scotland
+Third Lanark,Glasgow,Scotland
+Derry City,Derry,Republic of Ireland
+Athlone Town,Athlone,Republic of Ireland
+Limerick United,Limerick,Republic of Ireland
+Cork Celtic,Cork,Republic of Ireland
+Waterford AFC,Waterford,Republic of Ireland
+Drumcondra Dublin,Dublin,Republic of Ireland
+Limerick FC,Limerick,Republic of Ireland
+Cork Athletic,Cork,Republic of Ireland
+Dolphin Dublin,Dublin,Republic of Ireland
+Cork United,Cork,Republic of Ireland
+Coleraine FC,Coleraine,Northern Ireland
+Lisburn Distillery,Belfast,Northern Ireland
+Glenavon FC,Lurgan,Northern Ireland
+Belfast Celtic,Belfast,Northern Ireland
+Queen's Island FC, Belfast,Northern Ireland
+Lierse SK,Lier,Belgium
+KV Mechelen,Mechelen,Belgium
+KSK Beveren,Beveren,Belgium
+Royal Antwerp FC,Antwerp,Belgium
+RFC de Liège,Liege,Belgium
+KFC Germinal Ekeren, Antwerp,Belgium
+Daring Club de Bruxelles,Brussels,Belgium
+Cercle Sportif Brugeois,Bruges,Belgium
+FC Brugeois,Bruges,Belgium
+RC Brussels,Brussels,Belgium
+AZ '67 Alkmaar,Alkmaar,Netherlands
+Feijenoord,Rotterdam,Netherlands
+DWS Amsterdam,Amsterdam,Netherlands
+Sparta Rotterdam,Rotterdam,Netherlands
+DOS Utrecht,Utrecht,Netherlands
+Rapid JC Heerlen,Heerlen,Netherlands
+Willem II,Tilburg,Netherlands
+SV Limburgia,Brunssum,Netherlands
+SVV Schiedam,Schiedam,Netherlands
+BVV, Barendrecht,Netherlands
+HFC Haarlem,Haarlem,Netherlands
+De Volewijckers,Amsterdam,Netherlands
+ADO Den Haag,The Hague,Netherlands
+Heracles Almelo,Almelo,Netherlands
+Sportclub Enschede,Enschede,Netherlands
+HBS-Craeyenhout,The Hague,Netherlands
+Be Quick 1887,Groningen,Netherlands
+RAP Amsterdam,Amsterdam,Netherlands
+Racing Club Heemstede,Heemstede,Netherlands
+FC Sion,Sion,Switzerland
+FC Aarau,Aarau,Switzerland
+FC Luzern,Lucerne,Switzerland
+Neuchâtel Xamax FC,Neuchâtel,Switzerland
+Lausanne Sports,Lausanne,Switzerland
+FC La Chaux-de-Fonds,La Chaux-de-Fonds,Switzerland
+FC Lugano,Lugano,Switzerland
+AC Bellinzona,Bellinzona,Switzerland
+FC Biel/Bienne,Biel/Bienne,Switzerland
+FC Bern,Bern,Switzerland
+FC Etoile-Sporting,La Chaux-de-Fonds,Switzerland
+FC Xamax,Neuchâtel,Switzerland
+FC Montriond,Lausanne,Switzerland
+Anglo-American Club Zürich,Zurich,Switzerland
+FC Tirol,Innsbruck,Austria
+SSW Innsbruck,Innsbruck,Austria
+Austria/WAC,Vienna,Austria
+SK VÖEST Linz,Linz,Austria
+Admira Wien,Vienna,Austria
+Linzer ASK,Linz,Austria
+Wiener Sport-Club,Vienna,Austria
+First Vienna FC,Vienna,Austria
+Wacker Wien,Vienna,Austria
+Wiener Amateur-Sportverein,Vienna,Austria
+Hakoah Wien,Vienna,Austria
+Wiener Sport-Club,Vienna,Austria
+Floridsdorfer AC,Vienna,Austria
+Wiener AC,Vienna,Austria
+Viking FK,Stavanger,Norway
+Lillestrøm SK,Lillestrøm,Norway
+Moss FK,Moss,Norway
+IK Start,Kristiansand,Norway
+Lyn Oslo,Oslo,Norway
+Skeid Oslo,Oslo,Norway
+Fredrikstad FK,Fredrikstad,Norway
+Larvik Turn og IF,Larvik,Norway
+Fram Larvik,Larvik,Norway
+Örgryte IS,Gothenburg,Sweden
+Åtvidabergs FF,Åtvidaberg,Sweden
+GAIS Göteborg,Gothenburg,Sweden
+IK Sleipner,Norrköping,Sweden
+Brynäs IF,Gävle,Sweden
+IFK Eskilstuna,Eskilstuna,Sweden
+Göteborg IF,Gothenburg,Sweden
+B.93 København,Copenhagen,Denmark
+BK Frem København,Copenhagen,Denmark
+KB København,Copenhagen,Denmark
+B 1903 København,Copenhagen,Denmark
+B1903 København,Copenhagen,Denmark
+Aarhus GF,Aarhus,Denmark
+Silkeborg IF,Silkeborg,Denmark
+Lyngby BK,Copenhagen,Denmark
+Odense BK,Odense,Denmark
+Hvidovre IF,Hvidovre,Denmark
+Esbjerg fB,Esbjerg,Denmark
+B 1909 Odense,Odense,Denmark
+Vejle BK,Vejle,Denmark
+Lechia Gdańsk,Gdańsk,Poland
+Widzew Łódź,Łódź,Poland
+Ruch Chorzów,Chorzów,Poland
+Górnik Zabrze,Zabrze,Poland
+Stal Mielec,Mielec,Poland
+Warta Poznań,Poznań,Poland
+Ruch Wielkie Hajduki,Chorzów,Poland
+Klub Sportowy Cracovia,Kraków,Poland
+CAFC Vinohrady,Prague,Czech Republic
+CFK Kickers Prag,Prague,Czech Republic
+DFC Prag,Prague,Czech Republic
+SK Bratislava,Bratislava,Slovakia
+OAP Bratislava,Bratislava,Slovakia
+AC Považská Bystrica,Považská Bystrica,Slovakia
+Ferencvaros,Budapest,Hungary
+MTK FC,Budapest,Hungary
+Kispesti Honved FC,Budapest,Hungary
+Budapest Honved SE,Budapest,Hungary
+Újpesti Dózsa SC,Budapest,Hungary
+MTK-Vörös Meteor Sport Kör,Budapest,Hungary
+Raba ETO Györ,Győr,Hungary
+FTC Budapest,Budapest,Hungary
+Budapesti TC,Budapest,Hungary
+Újpest FC,Budapest,Hungary
+Nagyváradi AC,Oradea,Romania
+Györi Vasas ETO,Győr,Hungary
+Csepel SC,Budapest,Hungary
+MTK,Budapest,Hungary
+Budapesti Vörös Lobogó,Budapest,Hungary
+Budapesti Bástya SE,Budapest,Hungary
+PAOK Saloniki,Thessaloniki,Greece
+AE Larisa,Larissa,Greece
+HAŠK-Građanski,Zagreb,Croatia
+NK Branik Maribor,Maribor,Slovenia
+Colentina Bucuresti,Bucharest,Romania
+United A.C. Ploiesti,Ploiești,Romania
+Olimpia Bucuresti,Bucharest,Romania
+Chinezul Timisoara,Timișoara,Romania
+Venus Bucuresti,Bucharest,Romania
+Ripensia Timisoara,Timișoara,Romania
+Venus Bucuresti,Bucharest,Romania
+Juventus București,Bucharest,Romania
+Coltea Brasov,Brașov,Romania
+FC Universitatea Craiova,Craiova,Romania
+Argeș Pitești,Pitești,Romania
+UT Arad,Arad,Romania
+Petrolul Ploieşti,Ploiești,Romania
+Flamura Roşie UT Arad,Arad,Romania
+IT Arad,Arad,Romania
+IC Oradea,Oradea,Romania
+Unirea Tricolor,Bucharest,Romania
+Víkingur Reykjavík,Reykjavik,Iceland
+Fram Reykjavík,Reykjavik,Iceland
+ÍB Keflavík,Reykjanesbær,Iceland
+KA Akureyri,Akureyri,Iceland
+Spartak-Alania,Vladikavkaz,Russia
+ODO Minsk,Minsk,Belarus
+Gomel-Team,Gomel,Belarus
+BVO Brest,Brest,Belarus
+DKA Minsk,Minsk,Belarus
+Torpedo Minsk,Minsk,Belarus
+ODO Minsk,Minsk,Belarus
+FSM Minsk,Minsk,Belarus
+Spartak Minsk,Minsk,Belarus
+Spartak Bobruisk,Bobruisk,Belarus
+Minsk-Team,Minsk,Belarus
+Torpedo-BelAZ Zhodino,Zhodino,Belarus
+Stroitel Bobruisk,Bobruisk,Belarus
+Shinnik Bobruisk,Bobruisk,Belarus
+Torpedo Mogilev,Mogilev,Belarus
+FK Metallurg Molodechno,Molodechno,Belarus
+Traktor Minsk,Minsk,Belarus
+Kalakombinaat/MEK Pärnu,Pärnu,Estonia
+Estonia Johvi,Jõhvi,Estonia
+Baltika Narva,Narva,Estonia
+Kreenholm Narva,Narva,Estonia
+Kalev Ülemiste,Tallinn,Estonia
+Kalev Kopli,Tallinn,Estonia
+Polizei SV Dorpat,Tartu,Estonia
+Tartu Olümpia,Tartu,Estonia
+Inkaras Kaunas,Kaunas,Lithuania
+Romar Mažeikiai,Mažeikiai,Lithuania
+Sirijus Klaipeda,Klaipeda,Lithuania
+Banga Kaunas,Kaunas,Lithuania
+FK Tauras Tauragė,Tauragė,Lithuania
+FK Granitas Klaipeda,Klaipeda,Lithuania
+Atmosfera Mažeikiai,Mažeikiai,Lithuania
+Statybininkas Šiauliai,Šiauliai,Lithuania
+Tauras Šiauliai,Šiauliai,Lithuania
+FK Nevėžis,Kėdainiai,Lithuania
+Atletas Kaunas,Kaunas,Lithuania
+Inkaras Kaunas,Kaunas,Lithuania
+Statyba Panevezys,Panevėžys,Lithuania
+Atletas Kaunas,Kaunas,Lithuania
+Linų Audiniai Plungė,Plungė,Lithuania
+Raudonoji Zvaigzde,Vilnius,Lithuania
+Lima Kaunas,Kaunas,Lithuania
+Elnias Siauliai,Šiauliai,Lithuania
+Dinamo Kaunas,Kaunas,Lithuania
+Spartakas Kaunas,Kaunas,Lithuania
+LGSF Kauen,Kaunas,Lithuania
+SC Kovas Kauen,Kaunas,Lithuania
+Maisto SK Kauen,Kaunas,Lithuania
+Tauras Kaunas,Kaunas,Lithuania
+RAF Jelgava,Jelgava,Latvia
+FK Alfa,Riga,Latvia
+Elektrons Rīga,Riga,Latvia
+Kimiks Daugavpils,Daugavpils,Latvia
+Venta Ventspils,Ventspils,Latvia
+Starts Brocēni,Saldus,Latvia
+SM Liepaja,Liepāja,Latvia
+Armijas Virsnieku Nams Rīga,Riga,Latvia
+Atletiskais SK Rīga,Riga,Latvia
+Olimpija Liepaja,Liepāja,Latvia
+Etar Tarnovo,Veliko Tarnovo,Bulgaria
+PFC Beroe,Stara Zagora,Bulgaria
+Botev Plovdiv,Plovdiv,Bulgaria
+Spartak Plovdiv,Plovdiv,Bulgaria
+Ticha Varna,Varna,Bulgaria
+SC Ticha Varna,Varna,Bulgaria
+Trabzonspor,Trabzon,Turkey
+KF Teuta Durrës,Durrës,Albania
+FK Partizani,Tirana,Albania
+KS Flamurtari Vlorë,Vlorë,Albania
+KS Labinoti Elbasan,Elbasan,Albania
+Čelik Zenica,Zenica,Bosnia
+Ararat-Armenia,Yerevan,Armenia
+PFK Turan Tavuz,Tovuz,Azerbaijan
+Olympiakos Nikosia,Nicosia,Cyprus
+Pezoporikos Larnaca,Larnaca,Cyprus
+Çetinkaya TSK,Nicosia,Cyprus
+Trast Nikosia,Nicosia,Cyprus
+Avenir Beggen,Luxembourg City,Luxembourg
+Union Luxembourg,Luxembourg City,Luxembourg
+Spora Luxemburg,Luxembourg City,Luxembourg
+Progrès Niedercorn,Niederkorn,Luxembourg
+Red Boys Differdange,Differdange,Luxembourg
+Aris Bonnevoie,Luxembourg City,Luxembourg
+Stade Dudelange,Dudelange,Luxembourg
+Spora Luxemburg,Luxembourg City,Luxembourg
+The National Schifflange,Schifflingen,Luxembourg
+RFCU Luxemburg,Luxembourg City,Luxembourg
+SC Luxembourg,Luxembourg City,Luxembourg
+Floriana FC,Floriana,Malta
+Hamrun Spartans,Hamrun,Malta
+Rabat Ajax,Rabat,Malta
+KOMR Milizia,Valletta,Malta
+St. George's FC,Cospicua,Malta
+Kuopion PS,Kuopio,Finland
+IFK Mariehamn,Mariehamn,Finland
+SJK Seinäjoki,Seinäjoki,Finland
+Inter Turku,Turku,Finland
+Tampere United,Tampere,Finland
+MyPa Anjalankoski,Kouvola,Finland
+Haka Valkeakoski,Valkeakoski,Finland
+FC Jazz Pori,Pori,Finland
+TPV Tampere,Tampere,Finland
+FC Kuusysi,Lahti,Finland
+Ilves Tampere,Tampere,Finland
+OPS Oulu,Oulu,Finland
+TPS Turku,Turku,Finland
+FC Reipas Lahti,Lahti,Finland
+KPV Kokkola,Kokkola,Finland
+Helsingfors IFK,Helsinki,Finland
+Pyrkivä Turku,Turku,Finland
+VIFK Vaasa,Vaasa,Finland
+Kotkan TP II,Kotka,Finland
+Ilves-Kissat,Tampere,Finland
+Vaasan PS,Vaasa,Finland
+Sudet Viipuri,Kouvola,Finland
+ÅIFK Turku,Turku,Finland

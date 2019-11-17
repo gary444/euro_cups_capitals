@@ -1,0 +1,132 @@
+year,team,city,isCapital
+2019,FC København,Copenhagen,Yes
+2018,FC Midtjylland,Midtjylland,No
+2017,FC København,Copenhagen,Yes
+2016,FC København,Copenhagen,Yes
+2015,FC Midtjylland,Midtjylland,No
+2014,Aalborg BK,Aalborg,No
+2013,FC København,Copenhagen,Yes
+2012,FC Nordsjælland,Farum,No
+2011,FC København,Copenhagen,Yes
+2010,FC København,Copenhagen,Yes
+2009,FC København,Copenhagen,Yes
+2008,Aalborg BK,Aalborg,No
+2007,FC København,Copenhagen,Yes
+2006,FC København,Copenhagen,Yes
+2005,Brøndby IF,Brondby,No
+2004,FC København,Copenhagen,Yes
+2003,FC København,Copenhagen,Yes
+2002,Brøndby IF,Brondby,No
+2001,FC København,Copenhagen,Yes
+2000,Herfølge BK,Koge,No
+1999,Aalborg BK,Aalborg,No
+1998,Brøndby IF,Brondby,No
+1997,Brøndby IF,Brondby,No
+1996,Brøndby IF,Brondby,No
+1995,Aalborg BK,Aalborg,No
+1994,Silkeborg IF,Silkeborg,No
+1993,FC København,Copenhagen,Yes
+1992,Lyngby BK,Copenhagen,Yes
+1991,Brøndby IF,Brondby,No
+1990,Brøndby IF,Brondby,No
+1989,Odense BK,Odense,No
+1988,Brøndby IF,Brondby,No
+1987,Brøndby IF,Brondby,No
+1986,Aarhus GF,Aarhus,No
+1985,Brøndby IF,Brondby,No
+1984,Vejle BK,Vejle,No
+1983,Lyngby BK,Copenhagen,Yes
+1982,Odense BK,Odense,No
+1981,Hvidovre IF,Hvidovre,No
+1980,KB København,Copenhagen,Yes
+1979,Esbjerg fB,Esbjerg,No
+1978,Vejle BK,Vejle,No
+1977,Odense BK,Odense,No
+1976,B 1903 København,Copenhagen,Yes
+1975,Køge BK,Koge,No
+1974,KB København,Copenhagen,Yes
+1973,Hvidovre IF,Hvidovre,No
+1972,Vejle BK,Vejle,No
+1971,Vejle BK,Vejle,No
+1970,B 1903 København,Copenhagen,Yes
+1969,B 1903 København,Copenhagen,Yes
+1968,KB København,Copenhagen,Yes
+1967,Akademisk BK,Copenhagen,Yes
+1966,Hvidovre IF,Hvidovre,No
+1965,Esbjerg fB,Esbjerg,No
+1964,B 1909 Odense,Odense,No
+1963,Esbjerg fB,Esbjerg,No
+1962,Esbjerg fB,Esbjerg,No
+1961,Esbjerg fB,Esbjerg,No
+1960,Aarhus GF,Aarhus,No
+1959,B 1909 Odense,Odense,No
+1958,Vejle BK,Vejle,No
+1957,Aarhus GF,Aarhus,No
+1956,Aarhus GF,Aarhus,No
+1955,Aarhus GF,Aarhus,No
+1954,Køge BK,Koge,No
+1953,KB København,Copenhagen,Yes
+1952,Akademisk BK,Copenhagen,Yes
+1951,Akademisk BK,Copenhagen,Yes
+1950,KB København,Copenhagen,Yes
+1949,KB København,Copenhagen,Yes
+1948,KB København,Copenhagen,Yes
+1947,Akademisk BK,Copenhagen,Yes
+1946,B.93 København,Copenhagen,Yes
+1945,Akademisk BK,Copenhagen,Yes
+1944,BK Frem København,Copenhagen,Yes
+1943,Akademisk BK,Copenhagen,Yes
+1942,B.93 København,Copenhagen,Yes
+1941,BK Frem København,Copenhagen,Yes
+1940,KB København,Copenhagen,Yes
+1939,B.93 København,Copenhagen,Yes
+1938,B 1903 København,Copenhagen,Yes
+1937,Akademisk BK,Copenhagen,Yes
+1936,BK Frem København,Copenhagen,Yes
+1935,B.93 København,Copenhagen,Yes
+1934,B.93 København,Copenhagen,Yes
+1933,BK Frem København,Copenhagen,Yes
+1932,KB København,Copenhagen,Yes
+1931,BK Frem København,Copenhagen,Yes
+1930,B.93 København,Copenhagen,Yes
+1929,B.93 København,Copenhagen,Yes
+1928,B.93 København,Copenhagen,Yes
+1928,BK Frem København,Copenhagen,Yes
+1928,B1903 København,Copenhagen,Yes
+1927,B.93 København,Copenhagen,Yes
+1926,B 1903 København,Copenhagen,Yes
+1925,KB København,Copenhagen,Yes
+1924,B 1903 København,Copenhagen,Yes
+1923,BK Frem København,Copenhagen,Yes
+1922,KB København,Copenhagen,Yes
+1921,Akademisk BK,Copenhagen,Yes
+1920,B 1903 København,Copenhagen,Yes
+1919,Akademisk BK,Copenhagen,Yes
+1918,KB København,Copenhagen,Yes
+1917,KB København,Copenhagen,Yes
+1916,B.93 København,Copenhagen,Yes
+1915,B.93 København,Copenhagen,Yes
+1914,KB København,Copenhagen,Yes
+1913,KB København,Copenhagen,Yes
+1912,KB København,Copenhagen,Yes
+1911,KB København,Copenhagen,Yes
+1910,KB København,Copenhagen,Yes
+1909,B.93 København,Copenhagen,Yes
+1908,B.93 København,Copenhagen,Yes
+1907,B.93 København,Copenhagen,Yes
+1906,B.93 København,Copenhagen,Yes
+1905,KB København,Copenhagen,Yes
+1904,BK Frem København,Copenhagen,Yes
+1903,KB København,Copenhagen,Yes
+1902,BK Frem København,Copenhagen,Yes
+1901,B.93 København,Copenhagen,Yes
+1900,Akademisk BK,Copenhagen,Yes
+1899,Akademisk BK,Copenhagen,Yes
+1898,KB København,Copenhagen,Yes
+1897,KB København,Copenhagen,Yes
+1896,Akademisk BK,Copenhagen,Yes
+1895,Akademisk BK,Copenhagen,Yes
+1894,Akademisk BK,Copenhagen,Yes
+1893,Akademisk BK,Copenhagen,Yes
+1891,KB København,Copenhagen,Yes
+1890,Akademisk BK,Copenhagen,Yes

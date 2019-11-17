@@ -53,7 +53,7 @@ let mapWidth = svg_width * 0.5
 let mapHeight = svg_height * 0.8
 
 
-d3.csv('data/FAKEcapitalSuccessPerCountry.csv').then( (countryCapitalSuccess) => {
+d3.csv('data/countryCapitalPercentages.csv').then( (countryCapitalSuccess) => {
 
     console.log(countryCapitalSuccess);
 

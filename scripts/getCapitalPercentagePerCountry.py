@@ -4,8 +4,8 @@ import sys
 import math as Math
 
 #adjust to search different countries
-COUNTRY = "Germany"
-CAPITAL = "Berlin"
+COUNTRY = "Finland"
+CAPITAL = "Helsinki"
 
 
 print("Searching for country:  " + COUNTRY)
@@ -78,10 +78,17 @@ matched = 0
 noncapitals = 0
 capitals = 0
 for winner in winners:
-    if winner.team in teamCityDict:
+
+    if CAPITAL in winner.team:
+        matched+=1
+        winner.city = CAPITAL
+        winner.capital = "Yes"
+        capitals+=1
+
+    elif winner.team in teamCityDict:
         matched+=1
         winner.city = teamCityDict[winner.team]
-        if str(winner.city) == str(CAPITAL):
+        if str(winner.city).lstrip().rstrip() == str(CAPITAL):
             winner.capital = "Yes"
             capitals+=1
         else:
